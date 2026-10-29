@@ -1,0 +1,8 @@
+{
+  "name": "Remix Personal Finance Advisor Bot",
+  "description": "Smart personal finance management with income \u0026 expense tracking, category budgets, savings goals, monthly analytics, and Gemini AI advisor bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
